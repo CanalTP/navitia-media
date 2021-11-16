@@ -1,11 +1,12 @@
 # navitia-media
+![Navitia](https://navitia.com/content/uploads/2021/04/logo-navitia-bleu@3x.png)
+
 Media storage for Navitia logos 
-Available on [Github](https://github.com/CanalTP/navitia-media/tree/main/logos/products)
 
-Generration of folder list is done by using [apindex](https://github.com/libthinkpad/apindex)
+Generation of folder list is done by using [apindex](https://github.com/libthinkpad/apindex)
 
-## List of product logos :
+# Product logos :
 [List of logos](./logos/products/index.html)
 
-## List of profile logos :
+# Profile logos :
 [List of logos](./logos/profiles/index.html)
