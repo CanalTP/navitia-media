@@ -6,7 +6,7 @@ Media storage for Navitia logos
 Generation of folder list is done by using [apindex](https://github.com/libthinkpad/apindex)
 
 # Product logos :
-[List of logos](https://canaltp.github.io/logos/products/index.html)
+[List of logos](https://canaltp.github.io/navitia-media/logos/products/index.html)
 
 # Profile logos :
-[List of logos](https://canaltp.github.io/logos/profiles/index.html)
+[List of logos](https://canaltp.github.io/navitia-media/logos/profiles/index.html)
