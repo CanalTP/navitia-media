@@ -1,5 +1,5 @@
 # navitia-media
-![Navitia](https://canaltp.github.io/navitia-media/logos/products/navitia/navitia-blue@3x.png)
+![Navitia](./logos/products/navitia/navitia-blue@3x.png)
 
 Media storage for Navitia logos 
 
